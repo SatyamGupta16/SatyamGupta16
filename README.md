@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Satyam Gupta👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Developer+%7C+Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **[Your Project or Company]**
+- 🔭 I’m currently working on **INVERTIS UNIVERSITY**
 - 🌱 I’m currently learning **[New Skills or Technologies]**
 - 💬 Ask me about **Web Development, Open Source, DevOps, etc.**
 - 📫 How to reach me: **[your.email@example.com]**
