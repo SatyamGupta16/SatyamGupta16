@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Satyam Gupta👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&height=100&lines=FRONTEND+DEVELOPER+%7C+OPEN+SOURCE+CONTRIBUTOR+%7C+LIFELONG+LEARNER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=690&height=100&lines=FRONTEND+DEVELOPER+%7C+OPEN+SOURCE+CONTRIBUTOR+%7C+LIFELONG+LEARNER" alt="Typing SVG" />
 
 </p>
 
