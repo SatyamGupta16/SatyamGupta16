@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Satyam Gupta👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Developer+%7C+Open+Source+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&height=100&lines=FRONTEND+DEVELOPER+%7C+OPEN+SOURCE+CONTRIBUTOR+%7C+LIFELONG+LEARNER" alt="Typing SVG" />
+
 </p>
 
 ---
@@ -11,7 +12,7 @@
 - 🔭 I’m currently working on **INVERTIS UNIVERSITY**
 - 🌱 I’m currently learning **[New Skills or Technologies]**
 - 💬 Ask me about **Web Development, Open Source, DevOps, etc.**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[satyamgupta18633@gmail.com]**
 - 📁 Portfolio: **[https://your-portfolio.com](https://your-portfolio.com)**
 - ⚡ Fun fact: *[Something interesting about you]*
 
@@ -39,9 +40,9 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/satyam-gupta-94765725b/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:satyamgupta18633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=FirefoxBrowser&logoColor=white" /></a>
 </p>
 
