@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Satyam Gupta👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=690&height=100&lines=FRONTEND+DEVELOPER+%7C+OPEN+SOURCE+CONTRIBUTOR+%7C+LIFELONG+LEARNER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=900&height=100&lines=FRONTEND+DEVELOPER+%7C+OPEN+SOURCE+CONTRIBUTOR+%7C+LIFELONG+LEARNER" alt="Typing SVG" />
 
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **INVERTIS UNIVERSITY**
+- 🔭 I’m currently studying in **INVERTIS UNIVERSITY**
 - 🌱 I’m currently learning **[New Skills or Technologies]**
 - 💬 Ask me about **Web Development, Open Source, DevOps, etc.**
 - 📫 How to reach me: **[satyamgupta18633@gmail.com]**
@@ -40,7 +40,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/satyam-gupta-94765725b/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/satyam-gupta-dev/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:satyamgupta18633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://satyamgupta.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=FirefoxBrowser&logoColor=white" /></a>
