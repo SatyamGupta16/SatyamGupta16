@@ -10,7 +10,7 @@
 ## 🌟 About Me
 
 - 🔭 I’m currently studying in **INVERTIS UNIVERSITY**
-- 🌱 I’m currently learning **[New Skills or Technologies]**
+- 🌱 I’m currently learning **[Frontend Development & JAVA]**
 - 💬 Ask me about **Web Development, Open Source, DevOps, etc.**
 - 📫 How to reach me: **[satyamgupta18633@gmail.com]**
 - 📁 Portfolio: **[https://your-portfolio.com](https://your-portfolio.com)**
