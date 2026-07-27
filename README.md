@@ -290,6 +290,12 @@ Active contributor track through **SSOC 2026**. Building toward consistent, mean
 
 <br/>
 
+**Contribution Calendar** — day-by-day streak
+
+<img src="https://ghchart.rshah.org/7C3AED/SatyamGupta16" width="95%"/>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=SatyamGupta16&style=flat-square&color=7C3AED&label=Profile+Views" />
 
 </div>
